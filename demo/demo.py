@@ -1,7 +1,8 @@
 import argparse
 import os
 import time
-
+import sys
+sys.path.append('/home/an/an_workplace/ICD/obdetect_icd')
 import cv2
 import torch
 
