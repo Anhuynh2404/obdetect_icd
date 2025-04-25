@@ -1,0 +1,16 @@
+/usr/bin/cmake -S/home/an/an_workplace/ICD/obdetect_icd/demo_libtorch -B/home/an/an_workplace/ICD/obdetect_icd/build --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles /home/an/an_workplace/ICD/obdetect_icd/build//CMakeFiles/progress.marks
+make  -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/an/an_workplace/ICD/obdetect_icd/build'
+make  -f CMakeFiles/nanodet_demo.dir/build.make CMakeFiles/nanodet_demo.dir/depend
+make[2]: Entering directory '/home/an/an_workplace/ICD/obdetect_icd/build'
+cd /home/an/an_workplace/ICD/obdetect_icd/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/an/an_workplace/ICD/obdetect_icd/demo_libtorch /home/an/an_workplace/ICD/obdetect_icd/demo_libtorch /home/an/an_workplace/ICD/obdetect_icd/build /home/an/an_workplace/ICD/obdetect_icd/build /home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles/nanodet_demo.dir/DependInfo.cmake --color=
+Dependencies file "CMakeFiles/nanodet_demo.dir/main.cpp.o.d" is newer than depends file "/home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles/nanodet_demo.dir/compiler_depend.internal".
+Consolidate compiler generated dependencies of target nanodet_demo
+make[2]: Leaving directory '/home/an/an_workplace/ICD/obdetect_icd/build'
+make  -f CMakeFiles/nanodet_demo.dir/build.make CMakeFiles/nanodet_demo.dir/build
+make[2]: Entering directory '/home/an/an_workplace/ICD/obdetect_icd/build'
+[ 33%] Building CXX object CMakeFiles/nanodet_demo.dir/main.cpp.o
+/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/an/an_workplace/ICD/obdetect_icd/demo_libtorch -I/home/an/an_workplace/ICD/obdetect_icd/build -isystem /usr/include/opencv4 -isystem /home/an/an_workplace/ICD/obdetect_icd/demo_libtorch/libtorch/include -isystem /home/an/an_workplace/ICD/obdetect_icd/demo_libtorch/libtorch/include/torch/csrc/api/include -std=gnu++14 -MD -MT CMakeFiles/nanodet_demo.dir/main.cpp.o -MF CMakeFiles/nanodet_demo.dir/main.cpp.o.d -o CMakeFiles/nanodet_demo.dir/main.cpp.o -c /home/an/an_workplace/ICD/obdetect_icd/demo_libtorch/main.cpp
+make[2]: Leaving directory '/home/an/an_workplace/ICD/obdetect_icd/build'
+make[1]: Leaving directory '/home/an/an_workplace/ICD/obdetect_icd/build'

@@ -1,0 +1,3 @@
+/home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles/nanodet_demo.dir
+/home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles/edit_cache.dir
+/home/an/an_workplace/ICD/obdetect_icd/build/CMakeFiles/rebuild_cache.dir
